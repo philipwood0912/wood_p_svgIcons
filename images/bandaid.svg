@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="wholeBandaid" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 364.03 359.24" style="enable-background:new 0 0 364.03 359.24;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#C68D4D;}
 	.st1{fill:#BA8149;}
+    
+    #wholeBandaid:hover .st0 {fill:#BA8149;}
+    #wholeBandaid:hover .st1 {fill:#C68D4D;}
 </style>
 <g id="bandAidBottom">
 	<path class="st0" d="M3.6,85.13l276.95,270.7c4.72,4.61,12.36,4.53,16.97-0.19l63.11-64.57c4.61-4.72,4.53-12.36-0.19-16.97

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="wholeScope" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 111.51 209.79" style="enable-background:new 0 0 111.51 209.79;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#CCCCCC;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
 	.st1{fill:#CCCCCC;}
 	.st2{fill:#CCCCCB;}
+    
+    #wholeScope:hover .st0 {fill:#F4C83D;}
+    #wholeScope:hover .st1 {fill:#F4C83D;}
+    #wholeScope:hover .st2 {fill:#F4C83D;}
 </style>
 <g id="stethMetal">
 	<circle class="st0" cx="90.59" cy="63.92" r="13.45"/>

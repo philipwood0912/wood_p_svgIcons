@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="wholeHandicap" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 212.79 242.83" style="enable-background:new 0 0 212.79 242.83;" xml:space="preserve">
 <style type="text/css">
 	.st0{clip-path:url(#SVGID_2_);fill:none;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
+    
+    #wholeHandicap:hover .st0 {stroke:#0081D8;}
+    #wholeHandicap:hover .st1 {stroke:#0081D8;}
+    #wholeHandicap:hover .st2 {fill:#0081D8;}
 </style>
 <g id="wheel">
 	<defs>
@@ -17,7 +21,7 @@
 	<ellipse class="st0" cx="81.51" cy="161.13" rx="67.57" ry="69.1"/>
 </g>
 <g id="man">
-	<circle cx="69.98" cy="22.21" r="22.21"/>
+	<circle class="st2" cx="69.98" cy="22.21" r="22.21"/>
 	<polyline class="st1" points="60.94,28.53 69.11,128.62 144.17,129.13 176.34,200.62 209.02,187.34 	"/>
 	<line class="st1" x1="130.38" y1="97.01" x2="67.06" y2="96.65"/>
 </g>
