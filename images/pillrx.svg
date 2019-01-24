@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg id="wholePill" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="wholePill" class="icons" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 177.44 357.14" style="enable-background:new 0 0 177.44 357.14;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#CD2027;}
@@ -9,6 +9,10 @@
     #wholePill:hover .st0 {fill:#3F68B2;}
     #wholePill:hover .st1 {fill:#CD2027;}
 </style>
+<defs>
+    <script xlink:href="../js/main.js" type="text/javascript">
+    </script>
+</defs>
 <g id="pillTop">
 	<path class="st0" d="M88.72,357.14L88.72,357.14C39.92,357.14,0,317.22,0,268.42V88.72C0,39.92,39.92,0,88.72,0h0
 		c48.8,0,88.72,39.92,88.72,88.72v179.7C177.44,317.22,137.52,357.14,88.72,357.14z"/>

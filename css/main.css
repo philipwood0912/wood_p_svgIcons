@@ -78,3 +78,35 @@ h1 {
 .textBox p {
     padding: 0px 5px 10px 5px;
 }
+
+@-webkit-keyframes spin {
+    from { -webkit-transform: rotate(0deg); }
+    to { -webkit-transform: rotate(360deg); }
+}
+
+@-moz-keyframes spin {
+    from { -moz-transform: rotate(0deg); }
+    to { -moz-transform: rotate(360deg); }
+}
+
+@-ms-keyframes spin {
+    from { -ms-transform: rotate(0deg); }
+    to { -ms-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+#redCross:hover {
+    -webkit-animation-name: spin;
+    -webkit-animation-duration: .5s;
+    -moz-animation-name: spin;
+    -moz-animation-duration: .5s;
+    -ms-animation-name: spin;
+    -ms-animation-duration: .5s;
+    animation-name: spin;
+    animation-duration: .5s;
+}
+
