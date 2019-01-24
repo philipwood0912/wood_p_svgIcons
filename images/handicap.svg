@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg id="wholeHandicap" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="wholeHandicap" class="icons" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 212.79 242.83" style="enable-background:new 0 0 212.79 242.83;" xml:space="preserve">
 <style type="text/css">
 	.st0{clip-path:url(#SVGID_2_);fill:none;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
@@ -10,6 +10,10 @@
     #wholeHandicap:hover .st1 {stroke:#0081D8;}
     #wholeHandicap:hover .st2 {fill:#0081D8;}
 </style>
+<defs>
+    <script xlink:href="../js/main.js" type="text/javascript">
+    </script>
+</defs>
 <g id="wheel">
 	<defs>
 		<polygon id="SVGID_1_" points="48,89.13 50.72,117.38 60.6,147.68 137.19,168.79 157.62,207.94 146.38,245.04 59.57,257.64 

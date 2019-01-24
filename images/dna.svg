@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg id="wholeDna" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="wholeDna" class="icons" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 159.32 314.51" style="enable-background:new 0 0 159.32 314.51;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:13;stroke-linecap:round;stroke-miterlimit:10;}
@@ -12,6 +12,10 @@
     #wholeDna:hover .st2 {stroke:#FFF539;}
     #wholeDna:hover .st3 {stroke:#3AC600;}
 </style>
+<defs>
+    <script xlink:href="../js/main.js" type="text/javascript">
+    </script>
+</defs>
 <g id="bigStrand">
 	<line class="st0" x1="14.65" y1="156.93" x2="138.73" y2="156.41"/>
 	<line class="st0" x1="16.69" y1="287.95" x2="141.03" y2="288.46"/>

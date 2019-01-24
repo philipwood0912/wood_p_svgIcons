@@ -5,6 +5,10 @@
 <style type="text/css">
 	.st0{fill:#ED2024;}
 </style>
+<defs>
+    <script xlink:href="../js/main.js" type="text/javascript">
+    </script>
+</defs>
 <rect x="108.16" class="st0" width="141.13" height="357.45"/>
 <rect x="108.16" y="0" transform="matrix(6.123234e-17 -1 1 6.123234e-17 6.821210e-13 357.4468)" class="st0" width="141.13" height="357.45"/>
 </svg>

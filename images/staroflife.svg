@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg id="wholeStar" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="wholeStar" class="icons" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 495.8 506.4" style="enable-background:new 0 0 495.8 506.4;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#3F66B0;}
@@ -8,6 +8,10 @@
     #wholeStar:hover #snake {fill:#009904;}
     #wholeStar:hover #snakeRod {fill:#6D5127;}
 </style>
+<defs>
+    <script xlink:href="../js/main.js" type="text/javascript">
+    </script>
+</defs>
 <g id="star">
 	<g id="medicalSym">
 		<path class="st0" d="M305.9,503H187.9c-6.6,0-12-5.4-12-12V16.6c0-6.6,5.4-12,12-12h118c6.6,0,12,5.4,12,12V491
