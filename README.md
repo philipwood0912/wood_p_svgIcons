@@ -20,7 +20,7 @@
 
 All icons are svgs, and have a brief description.
 
-Two css files: reset.css, main.css
+Two css files: reset.css, main.css<br>
 One js file: main.js
 
 All js done on main.js, linked into external svg.
