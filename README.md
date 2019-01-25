@@ -24,6 +24,8 @@ Two css files: reset.css, main.css
 One js file: main.js
 
 All js done on main.js, linked into external svg.
+
+Cross in header spins!
                 
 
 
